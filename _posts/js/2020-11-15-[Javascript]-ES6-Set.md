@@ -14,7 +14,7 @@ Set은 중복된 값을 저장하지 않는 리스트이다.
 Constructor
 
 {% highlight javascript linenos %}
-const testSet = new Set();
+const testSet = new Set(); 
 }
 
 Set을 만들 때 중복되는 값을 가진 데이터를 넘기면,
@@ -36,5 +36,5 @@ has(value): set에 데이터 존재 여부
 
 delete(value): set에 데이터 삭제
 
-clear: set의 모든 데이터 삭제 
+clear: set의 모든 데이터 삭제 !!!
 
